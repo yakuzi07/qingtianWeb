@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "bunx tsc --noEmit && next lint",
-    "format": "bunx biome format --write"
+    "format": "bunx biome format --write",
+    "homepage": "https://yakuzi07.github.io/qingtianWeb"
   },
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.12",
